@@ -17,7 +17,7 @@ public class VehicleStand {
 	}
 	
 	public void standLocation() {
-		System.out.println("This is my location of the vehicle stand.");
+		System.out.println("This is my location of the vehicle stand. I have changed the location recently.");
 //		System.out.println("Value of vehicle obj is - " + veh);
 	}
 }
