@@ -13,6 +13,6 @@ public class Car implements Vehicle{
 	}
 	
 	public void drive() {
-		System.out.println("There is a car.");
+		System.out.println("There is a car. It has a green color.");
 	}
 }
